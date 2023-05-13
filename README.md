@@ -7,7 +7,7 @@ A project in Computer vision, the programming language used Python and its diffe
 *
 *Prerequisites:
 *
-*Basic knowledge of Pandas and Numpy
+*Basic knowledge of Pandas and Numpy....
 *
 *Steps for implementing/running this Project on your system:
 *
